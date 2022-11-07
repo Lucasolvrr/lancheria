@@ -11,6 +11,10 @@ just a small project for vue feeding
 git clone https://github.com/Lukas-xrz/lancheria
 ```
 
+```
+cd lancheria
+```
+
 2. ##### Start project using live server extension:
 
 ```
